@@ -1,5 +1,6 @@
 # Cryptography_Chat
 Simple Node,Express,Socket-Io App to acheive End to End Encryption using RSA algorithm.  
+If you dont want to see the encrypted messages just choose dont show EncryptedMessages when it is prompted  
 Simple Beep Sound plays whenever we recieve message   
 To start
 ```javascript
