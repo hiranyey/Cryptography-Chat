@@ -1,0 +1,40 @@
+    body
+    {
+       font-family: 'Barlow Condensed';
+    }
+    li
+    { 
+       font-size:20px;
+       word-wrap: break-word;
+    }
+    li:nth-child(even) 
+    {
+      background: #9FA8DA; 
+    }
+    li:nth-child(odd)
+    {
+      background:#E8EAF6;
+    }
+    em
+    {
+       font-size:25px;
+       
+    }
+    #Public_Key{
+      word-wrap:break-word;
+    }
+    #Private_Key{
+       word-wrap: break-word;
+    }
+    center
+    {
+      font-size:40px;
+      border-bottom:2px solid black;
+      padding:10px;
+    }
+    hr{
+      border:2px;
+    }
+    .real{
+      font-size:1.3em;
+    }

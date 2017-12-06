@@ -1,0 +1,24 @@
+{
+  "name": "cryptochat",
+  "version": "1.0.0",
+  "description": "Simple End to End encryption Chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djvu97/Cryptography_Chat.git"
+  },
+  "author": "Hiranyey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djvu97/Cryptography_Chat/issues"
+  },
+  "homepage": "https://github.com/djvu97/Cryptography_Chat#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
