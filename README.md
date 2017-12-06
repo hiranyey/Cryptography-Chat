@@ -1,6 +1,6 @@
 # Cryptography_Chat
 Simple Node,Express,Socket-Io App to acheive End to End Encryption using RSA algorithm.  
-  
+Simple Beep Sound plays whenever we recieve message   
 To start
 ```javascript
 npm install
