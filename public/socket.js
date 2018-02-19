@@ -8,7 +8,6 @@ var RSAkey=cryptico.generateRSAKey(password,1024);
 var publicKey=cryptico.publicKeyString(RSAkey);
 if(decision){
     $("#Public_Key").append("Public Key of ChatRoom is: "+publicKey);
-    $("#Private_Key").append("Private Key of ChatRoom is: "+cryptico.privateKeyString(RSAkey));
 }
 var socket = io();
 socket.emit('joined',User);
